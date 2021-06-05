@@ -1,0 +1,101 @@
+{
+   "num_mip_levels" : 4,
+   "padding" : 8,
+   "resource_pack_name" : "vanilla",
+   "texture_data" : {
+		// texture order:
+		//   Default,N/A,North,South,East,West,N/A,N/A,
+		//   Default Powered,N/A,North,South,East,West,N/A
+      "hopper_outside_north" : {
+          "textures" : [
+              "textures/blocks/hopper_outside_front",
+              "filler",
+              "textures/blocks/hopper_outside_front",
+              "textures/blocks/hopper_outside_back",
+              "textures/blocks/hopper_outside_right_arrow",
+              "textures/blocks/hopper_outside_left_arrow",
+              "filler",
+              "filler",
+              "textures/blocks/hopper_outside_front",
+              "filler",
+              "textures/blocks/hopper_outside_front",
+              "textures/blocks/hopper_outside_back_powered",
+              "textures/blocks/hopper_outside_right_arrow_powered",
+              "textures/blocks/hopper_outside_left_arrow_powered"
+           ]
+      },
+       "hopper_outside_south" : {
+          "textures" : [
+              "textures/blocks/hopper_outside_front",
+              "filler",
+              "textures/blocks/hopper_outside_back",
+              "textures/blocks/hopper_outside_front",
+              "textures/blocks/hopper_outside_left_arrow",
+              "textures/blocks/hopper_outside_right_arrow",
+              "filler",
+              "filler",
+              "textures/blocks/hopper_outside_front",
+              "filler",
+              "textures/blocks/hopper_outside_back_powered",
+              "textures/blocks/hopper_outside_front",
+              "textures/blocks/hopper_outside_left_arrow_powered",
+              "textures/blocks/hopper_outside_right_arrow_powered"
+           ]
+      },
+      "hopper_outside_west" : {
+          "textures" : [
+              "textures/blocks/hopper_outside_front",
+              "filler",
+              "textures/blocks/hopper_outside_left_arrow",
+              "textures/blocks/hopper_outside_right_arrow",
+              "textures/blocks/hopper_outside_front",
+              "textures/blocks/hopper_outside_back",
+              "filler",
+              "filler",
+              "textures/blocks/hopper_outside_front",
+              "filler",
+              "textures/blocks/hopper_outside_left_arrow_powered",
+              "textures/blocks/hopper_outside_right_arrow_powered",
+              "textures/blocks/hopper_outside_front",
+              "textures/blocks/hopper_outside_back_powered"
+
+           ]
+      },
+      "hopper_outside_east" : {
+          "textures" : [
+              "textures/blocks/hopper_outside_front",
+              "filler",
+              "textures/blocks/hopper_outside_right_arrow",
+              "textures/blocks/hopper_outside_left_arrow",
+              "textures/blocks/hopper_outside_back",
+              "textures/blocks/hopper_outside_front",
+              "filler",
+              "filler",
+              "textures/blocks/hopper_outside_front",
+              "filler",
+              "textures/blocks/hopper_outside_right_arrow_powered",
+              "textures/blocks/hopper_outside_left_arrow_powered",
+              "textures/blocks/hopper_outside_back_powered",
+              "textures/blocks/hopper_outside_front"
+           ]
+      },
+      "hopper_bottom" : {
+          "textures" : [
+              "textures/blocks/hopper_bottom",
+              "filler",
+              "textures/blocks/hopper_bottom_down_arrow",
+              "textures/blocks/hopper_bottom_straight_arrow",
+              "textures/blocks/hopper_bottom_left_arrow",
+              "textures/blocks/hopper_bottom_right_arrow",
+              "filler",
+              "filler",
+              "textures/blocks/hopper_bottom",
+              "filler",
+              "textures/blocks/hopper_bottom_down_arrow_powered",
+              "textures/blocks/hopper_bottom_straight_arrow_powered",
+              "textures/blocks/hopper_bottom_left_arrow_powered",
+              "textures/blocks/hopper_bottom_right_arrow_powered"
+           ]
+      }
+   }
+}

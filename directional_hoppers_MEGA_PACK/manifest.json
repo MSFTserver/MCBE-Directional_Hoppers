@@ -1,0 +1,229 @@
+{
+    "format_version": 2,
+    "header": {
+      "name": "§l§n§4⫷directional⫸⫷hoppers⫸ MEGA PACK",
+      "description": "§o§fMade by §gHostsServer §r ψ this pack includes a very wide variety of directional hoppers each version has slim and  CHONKY depedning on your liking also variety with just certain texture faces (top & sides, top only, ect.)",
+        "uuid": "895d8613-d02c-4386-b9bf-b44df5ed426b",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "40049d94-d0e5-4af3-8def-14cb4bf3da3c",
+            "version": [0, 0, 1]
+        }
+    ],
+    "subpacks": [
+          {
+               "folder_name": "arrows_v1",
+               "name": "Arrows V1 (CHONKY)",
+               "memory_tier": 0
+          },
+          {
+               "folder_name": "arrows_v1_1",
+               "name": "Arrows V1.1 (Top Only) (CHONKY)",
+               "memory_tier": 1
+          },
+          {
+               "folder_name": "arrows_v1_2",
+               "name": "Arrows V1.2 (Side Only) (CHONKY)",
+               "memory_tier": 2
+          },
+          {
+               "folder_name": "arrows_v1_3",
+               "name": "Arrows V1.3 (Bottom Only) (CHONKY)",
+               "memory_tier": 3
+          },
+          {
+               "folder_name": "arrows_v1_4",
+               "name": "Arrows V1.4 (Top & Sides) (CHONKY)",
+               "memory_tier": 4
+          },
+          {
+               "folder_name": "arrows_v1_5",
+               "name": "Arrows V1.5 (Top & Bottom) (CHONKY)",
+               "memory_tier": 5
+          },
+          {
+               "folder_name": "arrows_v1_6",
+               "name": "Arrows V1.6 (Sides & Bottom) (CHONKY)",
+               "memory_tier": 6
+          },
+          {
+               "folder_name": "arrows_v1_7",
+               "name": "Arrow V1.7 (slim)",
+               "memory_tier": 7
+          },
+          {
+               "folder_name": "arrows_v1_8",
+               "name": "Arrows V1.8 (Top Only) (slim)",
+               "memory_tier": 8
+          },
+          {
+               "folder_name": "arrows_v1_9",
+               "name": "Arrows V1.9 (Side Only) (slim)",
+               "memory_tier": 9
+          },
+          {
+               "folder_name": "arrows_v1_10",
+               "name": "Arrows V1.10 (Bottom Only) (slim)",
+               "memory_tier": 10
+          },
+          {
+               "folder_name": "arrows_v1_11",
+               "name": "Arrows V1.11 (Top & Sides) (slim)",
+               "memory_tier": 11
+          },
+          {
+               "folder_name": "arrows_v1_12",
+               "name": "Arrows V1.12 (Top & Bottom) (slim)",
+               "memory_tier": 12
+          },
+          {
+               "folder_name": "arrows_v1_13",
+               "name": "Arrows V1.13 (Sides & Bottom) (slim)",
+               "memory_tier": 13
+          },
+          {
+               "folder_name": "arrows_v2",
+               "name": "Arrows v2 (CHONKY)",
+               "memory_tier": 14
+          },
+          {
+               "folder_name": "arrows_v2_1",
+               "name": "Arrows v2.1 (Top Only) (CHONKY)",
+               "memory_tier": 15
+          },
+          {
+               "folder_name": "arrows_v2_2",
+               "name": "Arrows v2.2 (Side Only) (CHONKY)",
+               "memory_tier": 16
+          },
+          {
+               "folder_name": "arrows_v2_3",
+               "name": "Arrows v2.3 (Bottom Only) (CHONKY)",
+               "memory_tier": 17
+          },
+          {
+               "folder_name": "arrows_v2_4",
+               "name": "Arrows v2.4 (Top & Sides) (CHONKY)",
+               "memory_tier": 18
+          },
+          {
+               "folder_name": "arrows_v2_5",
+               "name": "Arrows v2.5 (Top & Bottom) (CHONKY)",
+               "memory_tier": 19
+          },
+          {
+               "folder_name": "arrows_v2_6",
+               "name": "Arrows v2.6 (Sides & Bottom) (CHONKY)",
+               "memory_tier": 20
+          },
+          {
+               "folder_name": "arrows_v2_7",
+               "name": "Arrows v2.7 (slim)",
+               "memory_tier": 21
+          },
+          {
+               "folder_name": "arrows_v2_8",
+               "name": "Arrows v2.8 (Top Only) (slim)",
+               "memory_tier": 22
+          },
+          {
+               "folder_name": "arrows_v2_9",
+               "name": "Arrows v2.9 (Side Only) (slim)",
+               "memory_tier": 23
+          },
+          {
+               "folder_name": "arrows_v2_10",
+               "name": "Arrows v2.10 (Bottom Only) (slim)",
+               "memory_tier": 24
+          },
+          {
+               "folder_name": "arrows_v2_11",
+               "name": "Arrows v2.11 (Top & Sides) (slim)",
+               "memory_tier": 25
+          },
+          {
+               "folder_name": "arrows_v2_12",
+               "name": "Arrows v2.12 (Top & Bottom) (slim)",
+               "memory_tier": 26
+          },
+          {
+               "folder_name": "arrows_v2_13",
+               "name": "Arrows v2.13 (Sides & Bottom) (slim)",
+               "memory_tier": 27
+          },
+          {
+               "folder_name": "arrows_v3",
+               "name": "Arrows v3 (CHONKY)",
+               "memory_tier": 28
+          },
+          {
+               "folder_name": "arrows_v3_1",
+               "name": "Arrows v3.1 (Top Only) (CHONKY)",
+               "memory_tier": 29
+          },
+          {
+               "folder_name": "arrows_v3_2",
+               "name": "Arrows v3.2 (Side Only) (CHONKY)",
+               "memory_tier": 30
+          },
+          {
+               "folder_name": "arrows_v3_3",
+               "name": "Arrows v3.3 (Bottom Only) (CHONKY)",
+               "memory_tier": 31
+          },
+          {
+               "folder_name": "arrows_v3_4",
+               "name": "Arrows v3.4 (Top & Sides) (CHONKY)",
+               "memory_tier": 32
+          },
+          {
+               "folder_name": "arrows_v3_5",
+               "name": "Arrows v3.5 (Top & Bottom) (CHONKY)",
+               "memory_tier": 33
+          },
+          {
+               "folder_name": "arrows_v3_6",
+               "name": "Arrows v3.6 (Sides & Bottom) (CHONKY)",
+               "memory_tier": 34
+          },
+          {
+               "folder_name": "arrows_v3_7",
+               "name": "Arrows v3.7 (slim)",
+               "memory_tier": 35
+          },
+          {
+               "folder_name": "arrows_v3_8",
+               "name": "Arrows v3.8 (Top Only) (slim)",
+               "memory_tier": 36
+          },
+          {
+               "folder_name": "arrows_v3_9",
+               "name": "Arrows v3.9 (Side Only) (slim)",
+               "memory_tier": 37
+          },
+          {
+               "folder_name": "arrows_v3_10",
+               "name": "Arrows v3.10 (Bottom Only) (slim)",
+               "memory_tier": 38
+          },
+          {
+               "folder_name": "arrows_v3_11",
+               "name": "Arrows v3.11 (Top & Sides) (slim)",
+               "memory_tier": 39
+          },
+          {
+               "folder_name": "arrows_v3_12",
+               "name": "Arrows v3.12 (Top & Bottom) (slim)",
+               "memory_tier": 40
+          },
+          {
+               "folder_name": "arrows_v3_13",
+               "name": "Arrows v3.13 (Sides & Bottom) (slim)",
+               "memory_tier": 41
+          }
+     ]
+}

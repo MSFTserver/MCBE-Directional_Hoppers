@@ -1,0 +1,28 @@
+{
+   "num_mip_levels" : 4,
+   "padding" : 8,
+   "resource_pack_name" : "vanilla",
+   "texture_data" : {
+		// texture order:
+		//   Default,N/A,North,South,East,West,N/A,N/A,
+		//   Default Powered,N/A,North,South,East,West,N/A
+       "hopper_top" : {
+          "textures" : [
+            "textures/blocks/hopper_top",
+            "filler",
+            "textures/blocks/hopper_top_straight_arrow",
+            "textures/blocks/hopper_top_down_arrow",
+            "textures/blocks/hopper_top_left_arrow",
+            "textures/blocks/hopper_top_right_arrow",
+            "filler",
+            "filler",
+            "textures/blocks/hopper_top_powered",
+            "filler",
+            "textures/blocks/hopper_top_straight_arrow_powered",
+            "textures/blocks/hopper_top_down_arrow_powered",
+            "textures/blocks/hopper_top_left_arrow_powered",
+            "textures/blocks/hopper_top_right_arrow_powered"
+         ]
+      }
+   }
+}

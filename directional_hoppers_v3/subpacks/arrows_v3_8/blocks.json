@@ -1,0 +1,13 @@
+{
+   "hopper" : {
+      "sound" : "metal",
+      "textures" : {
+         "down" : "hopper_inside",
+         "east" : "hopper_outside",
+         "north" : "hopper_outside",
+         "south" : "hopper_outside",
+         "up" : "hopper_top",
+         "west" : "hopper_outside"
+      }
+   }
+}
